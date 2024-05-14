@@ -1,0 +1,9 @@
+.container {
+    display: none;
+}
+
+/* Style for error messages */
+label.error {
+    color: red; /* Change color to red */
+    font-size: 14px; /* Optional: Change font size */
+}
